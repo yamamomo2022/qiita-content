@@ -1,8 +1,8 @@
 ---
 title: .NETで扱うGemini pro(仮)
 tags:
-  - ''
-private: false
+  - '備忘録'
+cdprivate: false
 updated_at: ''
 id: null
 organization_url_name: null
