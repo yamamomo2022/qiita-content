@@ -15,7 +15,7 @@ APIのドキュメンテーションをはじめて見たときは、.NET(C#)は
 
 ## コード
 
-'''c#:main.cs
+```c#:main.cs
 using System;
 
 namespace Gemini_api_test
@@ -32,7 +32,7 @@ namespace Gemini_api_test
         }
     }
 }
-'''
+```
 
 
 ## 参考文献
